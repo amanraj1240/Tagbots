@@ -32,7 +32,7 @@ BOT_ADMINS = {
 
 SUPPORT_CHAT = "Rajnetworkchat"
 UPDATES_CHANNEL = "Rajnetworksbot"
-START_PHOTO_URL = "https://i.imgur.com/xVwIQfB.jpeg"
+START_PHOTO_URL = "https://files.catbox.moe/3jdt85.jpeg"
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
