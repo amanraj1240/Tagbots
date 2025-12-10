@@ -1,3 +1,2 @@
 telethon
 pillow
-sqlite3-binary
